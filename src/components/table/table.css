@@ -1,0 +1,8 @@
+.tab .title li {
+  cursor: pointer;
+  padding: 10px;
+  list-style: none;
+}
+.tab .tabContent {
+  color: inherit;
+}
